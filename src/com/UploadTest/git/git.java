@@ -6,5 +6,6 @@ public class git {
         System.out.println("Hello World2");
         System.out.println("Hello World_checkout");
         System.out.println("master branch");
+        System.out.println("new branch");
     }
 }
